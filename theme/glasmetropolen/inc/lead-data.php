@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Glasmetropolen',
+	'bransch'        => 'Glasmästare',
 	'telefon'        => '0243-151 99',
 	'telefon_tel'    => '+4624315199',
 	'ort'            => 'Borlänge',
